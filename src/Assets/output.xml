@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Classifica>
+	<Giocatore>
+		<Nome>Sceriffo</Nome>
+		<TotSbleuri>500</TotSbleuri>
+		<PartiteGiocate>0</PartiteGiocate>
+		<Punteggio>0.0</Punteggio>
+	</Giocatore>
+	<Giocatore>
+		<Nome>Fuorilegge1</Nome>
+		<TotSbleuri>500</TotSbleuri>
+		<PartiteGiocate>0</PartiteGiocate>
+		<Punteggio>0.0</Punteggio>
+	</Giocatore>
+	<Giocatore>
+		<Nome>Fuorilegge2</Nome>
+		<TotSbleuri>500</TotSbleuri>
+		<PartiteGiocate>0</PartiteGiocate>
+		<Punteggio>0.0</Punteggio>
+	</Giocatore>
+	<Giocatore>
+		<Nome>Rinnegato</Nome>
+		<TotSbleuri>500</TotSbleuri>
+		<PartiteGiocate>0</PartiteGiocate>
+		<Punteggio>0.0</Punteggio>
+	</Giocatore>
+</Classifica>
